@@ -5,16 +5,17 @@
   "scope": "https://weedplace.online/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#09ceb8",
   "icons": [
     {
-      "src": "https://weedplace.online/icon-192.png",
+      "src": "https://cryptofcreations710-afk.github.io/weedplace-pwa/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://weedplace.online/icon-512.png",
+      "src": "https://cryptofcreations710-afk.github.io/weedplace-pwa/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
+}
